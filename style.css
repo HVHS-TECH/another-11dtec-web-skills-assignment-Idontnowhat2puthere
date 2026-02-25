@@ -1,3 +1,15 @@
 body {
-    background-color: rgb(97, 22, 218);
+    background-color: rgb(139, 9, 199);
+  }
+h1 {
+    background-color: rgb(132, 50, 170);
+  }
+  h2 {
+    background-color: rgb(132, 50, 170);
+  }
+  li {
+    background-color: rgb(132, 50, 170);
+  }
+  p {
+    background-color: rgb(132, 50, 170);
   }
