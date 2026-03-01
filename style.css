@@ -1,13 +1,16 @@
 body {
-    background-color: #D0FFD6
+    background-color: #D0FFD6;
   }
 h1 {
-    background-color: #DAFFEF
+    background-color: #DAFFEF;
+    border: 0.5cm;
   }
   h2 {
-    background-color: #DAFFEF
+    background-color: #DAFFEF;
+    border: 0.5cm;
   }
  
 nav {
-  background-color: #BDE4A8
+  background-color: #BDE4A8;
+  padding: 0.5cm;
 }
